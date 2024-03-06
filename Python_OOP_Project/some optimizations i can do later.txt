@@ -1,0 +1,4 @@
+- turn the lists to dectionaries to optimization the loops
+- insert the one operation solid principle
+- put the dependent classes on each other in files alone
+- make the project work with csv files
